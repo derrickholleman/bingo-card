@@ -1,7 +1,7 @@
 <script lang="ts">
   export let rowData: string[];
 
-  let selectedItems = [] as string[];
+  let selectedItems: string[] = [];
 
   const handleToggleRowCell = (data: string) => {
     const index = selectedItems.indexOf(data);
@@ -31,12 +31,23 @@
 </tr>
 
 <style>
+  @media screen and (max-width: 680px) {
+    td {
+      font-size: 1.8vw;
+    }
+  }
+
+  @media screen and (min-width: 680px) {
+    td {
+      font-size: 0.75rem;
+    }
+  }
+
   td {
     font-weight: bold;
     text-transform: uppercase;
     padding: 5px;
     width: 100px;
-    font-size: 1.8vw;
     height: 100px;
     text-align: center;
     border-radius: 5px;
