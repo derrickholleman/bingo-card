@@ -1,15 +1,18 @@
 <script lang="ts">
   export let rowData: string[];
-  import { allData } from "../stores/store";
 
   let selectedItems = [] as string[];
 
   const handleToggleRowCell = (data: string) => {
-    const foundItem = $allData.find((item) => item === data);
-    if (foundItem) {
-      selectedItems.push(foundItem);
-      selectedItems = selectedItems;
+    const index = selectedItems.indexOf(data);
+
+    if (index === -1) {
+      selectedItems.push(data);
+    } else {
+      selectedItems.splice(index, 1);
     }
+
+    selectedItems = selectedItems;
   };
 </script>
 

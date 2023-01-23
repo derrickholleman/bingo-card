@@ -17,7 +17,7 @@
     row4Data={BINGO_DATA_ROW_4}
   />
 
-  <p><span>*</span>if all squares get highlighted, start a new game!</p>
+  <p><span>*</span>if all squares get highlighted, refresh the page to start a new game!</p>
 </div>
 
 <style>
