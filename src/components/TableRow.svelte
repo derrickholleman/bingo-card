@@ -33,7 +33,7 @@
     text-transform: uppercase;
     padding: 5px;
     width: 100px;
-    font-size: 1.5vw;
+    font-size: 1.8vw;
     height: 100px;
     text-align: center;
     border-radius: 5px;
