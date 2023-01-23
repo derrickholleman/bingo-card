@@ -1,8 +1,9 @@
 export const BINGO_DATA_ROW_1 = [
-  "Miles makes a weird comment while casting",
+  "Miles makes a questionable comment while casting",
   "Player swears in a post game interview",
   "Player gets an ace in S&D",
-  "Team gets swept 3-0 in the series",
+  "Team gets swept 3-0 in a series",
+  "Player drops 35+ kills in a game",
 ];
 
 export const BINGO_DATA_ROW_2 = [
@@ -10,6 +11,7 @@ export const BINGO_DATA_ROW_2 = [
   "Player shouts at the other team across the stage",
   "Team gets swept 3-0 in control",
   "Casters call out a player for snaking",
+  "Ally and Nameless argue over predictions",
 ];
 
 export const BINGO_DATA_ROW_3 = [
@@ -17,6 +19,7 @@ export const BINGO_DATA_ROW_3 = [
   "Team gets 100 point clubbed in Hardpoint",
   "Crowd noise gives away a defuse in S&D",
   "Player gets turned on",
+  "Crowd shouts out 'BRUUUUUUUCE'",
 ];
 
 export const BINGO_DATA_ROW_4 = [
@@ -24,4 +27,5 @@ export const BINGO_DATA_ROW_4 = [
   "Lower seeded team beats a higher seeded team",
   "Cameraman shows the family of a player",
   "Broadcast cuts to an unplanned break",
+  "Fans start a 'LETS GO ____!' chant",
 ];
