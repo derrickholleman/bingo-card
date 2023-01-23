@@ -34,12 +34,15 @@
   @media screen and (max-width: 680px) {
     td {
       font-size: 1.8vw;
+      width: 70px;
+      height: 70px;
     }
   }
 
   @media screen and (min-width: 680px) {
     td {
-      font-size: 0.75rem;
+      width: 100px;
+      height: 100px;
     }
   }
 
@@ -47,8 +50,6 @@
     font-weight: bold;
     text-transform: uppercase;
     padding: 5px;
-    width: 100px;
-    height: 100px;
     text-align: center;
     border-radius: 5px;
     cursor: pointer;
