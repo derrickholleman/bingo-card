@@ -22,6 +22,6 @@ export const BINGO_DATA_ROW_3 = [
 export const BINGO_DATA_ROW_4 = [
   "S&D game goes to Round 11",
   "Lower seeded team beats a higher seeded team",
-  "",
-  "",
+  "Cameraman shows the family of a player",
+  "Broadcast cuts to an unplanned break",
 ];
