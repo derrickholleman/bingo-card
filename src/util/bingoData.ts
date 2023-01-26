@@ -19,7 +19,7 @@ export const BINGO_DATA_ROW_3 = [
   "Team gets 100 point clubbed in Hardpoint",
   "Crowd noise gives away a defuse in S&D",
   "Player gets turned on",
-  "Crowd shouts out 'BRUUUUUUUCE'",
+  "Player gets a quad kill or an ace in S&D",
 ];
 
 export const BINGO_DATA_ROW_4 = [
