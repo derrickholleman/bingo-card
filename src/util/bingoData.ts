@@ -1,7 +1,7 @@
 export const BINGO_DATA_ROW_1 = [
   "Miles makes a questionable comment while casting",
   "Player swears in a post game interview",
-  "Player gets an ace in S&D",
+  "Fans make a hand gesture behind casters or the desk",
   "Team gets swept 3-0 in a series",
   "Player drops 35+ kills in a game",
 ];
@@ -11,7 +11,7 @@ export const BINGO_DATA_ROW_2 = [
   "Player shouts at the other team across the stage",
   "Team gets swept 3-0 in control",
   "Casters call out a player for snaking",
-  "Ally and Nameless argue over predictions",
+  "Team gets reverse swept in either control or the series",
 ];
 
 export const BINGO_DATA_ROW_3 = [

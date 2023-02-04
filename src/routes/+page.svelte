@@ -9,7 +9,7 @@
 </script>
 
 <div class="container">
-  <h1>Major 2 Daily Drinking Game</h1>
+  <h1>Major 2 Drinking Game</h1>
   <BingoTable
     row1Data={BINGO_DATA_ROW_1}
     row2Data={BINGO_DATA_ROW_2}
@@ -17,7 +17,7 @@
     row4Data={BINGO_DATA_ROW_4}
   />
 
-  <p><span>*</span>if all squares get highlighted, refresh the page to start a new game!</p>
+  <p><span>*</span>Reset the board after each game!</p>
 </div>
 
 <style>

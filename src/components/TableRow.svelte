@@ -58,6 +58,6 @@
   }
 
   .selected {
-    background-color: yellow;
+    background-color: rgba(255, 16, 239, 0.29);
   }
 </style>
