@@ -1,5 +1,5 @@
 export const BINGO_DATA_ROW_1 = [
-  "Miles makes a questionable comment while casting",
+  "Miles or Maven make a questionable comment while casting",
   "Player swears in a post game interview",
   "Fans make a hand gesture behind casters or the desk",
   "Team gets swept 3-0 in a series",
