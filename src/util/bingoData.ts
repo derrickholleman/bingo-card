@@ -17,7 +17,7 @@ export const BINGO_DATA_ROW_2 = [
 export const BINGO_DATA_ROW_3 = [
   "Player gets a donut in S&D",
   "Player gets an ace in S&D",
-  "Team wins a control with 5 lives or less",
+  "Team on offense wins a control with 5 lives or less",
   "Player gets turned on",
   "Player gets a triple kill",
 ];
